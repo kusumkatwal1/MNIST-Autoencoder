@@ -1,6 +1,6 @@
 # Simple MNIST-Autoencoder
 This project implements a simple autoencoder using TensorFlow and Keras to reconstruct handwritten digit images from the MNIST dataset.
-          => handwritten digit image → encoder → latent vector → decoder → reconstructed digit
+          ## [handwritten digit image → encoder → latent vector → decoder → reconstructed digit]
           
 ## Overview
 The model uses an encoder-decoder neural network architecture to learn compressed representations of handwritten digits and reconstruct them with minimal loss.
